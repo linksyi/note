@@ -1,3 +1,3 @@
 - MySQL实战45讲
-  - [第一讲](mysql/1.md)
-
+  - [1、Mysql查询是如何执行的](mysql/1、Mysql查询是如何执行的.md)
+  - [2、Mysql更新是如何执行的](mysql/2、Mysql更新是如何执行的.md)
