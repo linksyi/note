@@ -1,4 +1,5 @@
-- MySQL实战45讲
+- MySQL笔记
   - [1、Mysql查询是如何执行的](mysql/1、Mysql查询是如何执行的.md)
   - [2、Mysql更新是如何执行的](mysql/2、Mysql更新是如何执行的.md)
-
+  - [3、事务隔离级别](mysql/3、事务隔离级别.md)
+  - [4、索引](mysql/4、索引.md)
