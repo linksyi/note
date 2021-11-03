@@ -13,4 +13,5 @@
   - [12、count(*)很慢，该怎么办](mysql/12、count(*)很慢，该怎么办.md)
   - [13、order by 是怎么工作的](mysql/13、order by是怎么工作的.md)
   - [14、Mysql是如何保证数据不丢的](mysql/14、Mysql是如何保证数据不丢的.md)
+  - [15、mysql如何保证主备一致](mysql/15、mysql如何保证主备一致呢.md)
 
