@@ -108,7 +108,7 @@
 
 SqlSession提供一个方法`getMapper(Class<?> mapper)` 来获取mapper接口对象，只需要传入对应的class即可，在这之中，SqlSession会通过上下文去获取mapper对象，因为我么再扫描配置文件的时候已经，已经将xml写在配置文件里面。
 
-## 第四步 执行Sql
+### 第四步 执行Sql
 
 当我们获取到mapper后，直接执行mapper对应的方法并传入参数
 

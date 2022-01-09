@@ -16,3 +16,5 @@
   - [15、mysql如何保证主备一致](mysql/15、mysql如何保证主备一致呢.md)
 
 - Mybatis源码解析
+  - [1、mybatis核心组件](mybatis/1、mybatis核心组件.md)
+  - [2、mybatis是如何执行的](mybatis/2、mybatis是如何执行的.md)
